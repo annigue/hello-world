@@ -1,2 +1,2 @@
 # hello-world
-Starting repository for everything 
+Starting repository: For everything else
